@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Paste-App
+The Paste App allows users to create, edit, and share text snippets with unique links. Built using React and Redux, it offers search, clipboard copy, and date formatting like “Month date, year" . It’s a fast, user-friendly tool for managing and sharing notes or code without any login.
+>>>>>>> 3936741d363de596a49472009dc4611321e3c162
